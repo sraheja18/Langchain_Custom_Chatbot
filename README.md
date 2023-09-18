@@ -8,6 +8,7 @@ Chat-GPT or other LLMs don't allow you to upload PDFs on their main website. Thu
 ## Tech Stack 
 - Python
 - Langchain
+- Open-AI
 - Streamlit
 
 ## How it works?
