@@ -7,3 +7,6 @@ Chat-GPT or other LLMs don't allow you to upload PDFs on their main website. Thu
 
 ## How it works?
 ![Screenshot](chatbot_workflow.png)
+
+## Here's the final webpage
+![Screenshot](webpage.png)
