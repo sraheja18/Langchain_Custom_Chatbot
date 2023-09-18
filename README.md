@@ -4,3 +4,6 @@ This Chatbot allows you to chat with multiple pdfs by simply uploading them. You
 
 ## Scope
 Chat-GPT or other LLMs don't allow you to upload PDFs on their main website. Thus, they miss the context.Thus, using a custom chatbot can allow you to get personalized answers.
+
+## How it works?
+![Screenshot](chatbot_workflow.png)
