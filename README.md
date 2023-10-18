@@ -17,3 +17,5 @@ PDFs are first broken into small chunks. Then they are converted to embeddings a
 
 ## Here's the final Webpage
 ![Screenshot](webpage.png)
+
+## Credits - https://github.com/alejandro-ao/ask-multiple-pdfs
